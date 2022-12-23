@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 18 23:49:48 2022
-
-@author: aiamini
-"""
-
 import sys
-
 sys.setrecursionlimit(100000)
 
 class masterClass:
